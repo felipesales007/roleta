@@ -2,9 +2,9 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
-Roleta virtual desenvolvido no **framework Laravel** por Felipe Sales.
+Roleta virtual desenvolvido no **framework Laravel** por Felipe Santos.
 
-Conheça o framework [Laravel](https://laravel.com) e o desenvolvedor [Felipe Sales](https://www.felipesales.com.br).
+Conheça o framework [Laravel](https://laravel.com) e o desenvolvedor [Felipe Santos](https://www.felipess.com).
 
 ## Versão disponível
 
